@@ -1,0 +1,14 @@
+micronaut:
+  application:
+    name: mgm
+
+mongodb:
+  uri: mongodb://mongodb:27017/mgm
+
+neutrino:
+  host: https://neutrinoapi.net/
+  validatePhonePath: /phone-validate
+  userId: jovenjoao
+  apiKey: LUdlXOdRIMp3cv83nnt3EZ1DsgKdIqwnWtB36jEf9WRQwPgh
+
+
